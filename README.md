@@ -223,7 +223,6 @@ The concentrations are **logarithmically spaced** (pM → nM → μM → M) with
 - Email: arektoutmossab@gmail.com
 - Institution: ENSIAS, Université Mohammed V de Rabat
 - Program: Data Science and IoT (IDSIT)
-- Supervisor: Pr. MOUMANE Karima
 
 ## License
 
